@@ -1,0 +1,8 @@
+.header {
+    background-color: #59554e;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 104px 0 32px;
+    color: var(--corSecundaria);
+}

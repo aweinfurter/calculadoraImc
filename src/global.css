@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container {
+    max-width: 720px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+:root {
+    --corPrincipal: #59554e;
+    --corSecundaria: #f3f4e5;
+    --corTerciaria: #e7f3f2;
+}
