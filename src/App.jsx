@@ -1,4 +1,4 @@
-import Header from './components/header/Index'
+import Header from './components/header/index'
 import Calculadora from './components/calculadora'
 
 function App() {
